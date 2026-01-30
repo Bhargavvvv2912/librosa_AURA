@@ -1,0 +1,11 @@
+# --- Modernization Target: Librosa Audio Stack ---
+librosa
+numpy
+scipy
+scikit-learn
+numba
+audioread
+soundfile
+pooch
+soxr
+lazy_loader
